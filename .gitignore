@@ -1,6 +1,12 @@
+# Binariesディレクトリを無視する
 Binaries
+
 DerivedDataCache
+
+# 中間ファイルディレクトリを無視する
 Intermediate
+
+# UE5のキャッシュディレクトリを無視する
 Saved
 Publish
 Build
